@@ -1,0 +1,448 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:9487d7fe-3f7e-4172-8529-3ab9087bf68f
+DTSTART:20250422T150000
+DTEND:20250422T160000
+SUMMARY:ACFT Workout: SDC Focus + Strength
+DESCRIPTION:Week 1 — SDC Focus + Strength
+
+Workout Instructions:
+Warm-Up (10 min): Jump rope or jog + dynamic stretches
+Main (30 min):
+- 4 Rounds SDC-style circuit (Sprint, Drag, Shuffle, Carry, Sprint)
+- 3x15 Air or Weighted Squats
+- 3x25m Farmer's Carry
+Core (10 min): 3x1 min Plank, 3x15 Leg Raises
+Cooldown (10 min): Walk + Stretch
+END:VEVENT
+BEGIN:VEVENT
+UID:a3d42031-559b-4526-855e-39f87c9d70f9
+DTSTART:20250422T161500
+DTEND:20250422T163000
+SUMMARY:Log Progress: SDC Focus + Strength
+DESCRIPTION:Week 1 — Log Progress for SDC Focus + Strength
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:b7bc084d-fdd7-484f-ae4e-a9d7dcf1db7a
+DTSTART:20250423T150000
+DTEND:20250423T160000
+SUMMARY:ACFT Workout: Run Speed + Stride Control
+DESCRIPTION:Week 1 — Run Speed + Stride Control
+
+Workout Instructions:
+Warm-Up (10 min): Jog + High Knees, Bounding
+Intervals (30 min): 5x400m @ 1:45–2:00 pace (90s rest)
+Strides & Mobility (10 min): 3x100m strides + 3x20m bounding
+Core (10 min): Plank 2x1 min, Russian Twists 2x20
+Cooldown jog (5 min)
+END:VEVENT
+BEGIN:VEVENT
+UID:ffde7dc0-90ff-4d8a-9d98-ab2d3329f59f
+DTSTART:20250423T161500
+DTEND:20250423T163000
+SUMMARY:Log Progress: Run Speed + Stride Control
+DESCRIPTION:Week 1 — Log Progress for Run Speed + Stride Control
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:9ae5d179-fdbe-4018-a51b-0ffc22a9377c
+DTSTART:20250425T150000
+DTEND:20250425T160000
+SUMMARY:ACFT Workout: Push + Power Throw
+DESCRIPTION:Week 1 — Push + Power Throw
+
+Workout Instructions:
+Warm-Up (10 min): Arm circles, mobility drills
+Upper Body Strength (30 min):
+- 3x Max HR Push-ups
+- 3x10 Weighted/Incline Push-ups
+- 3x5 Power Throws (med ball/backpack)
+- 3x10 Jump Squats
+Core Finisher (10 min): 3x1 min Side Plank, 3x20 Flutter Kicks
+Stretch (10 min)
+END:VEVENT
+BEGIN:VEVENT
+UID:9c492b08-a1c2-4ba8-9f8b-34988f993783
+DTSTART:20250425T161500
+DTEND:20250425T163000
+SUMMARY:Log Progress: Push + Power Throw
+DESCRIPTION:Week 1 — Log Progress for Push + Power Throw
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:a1c1ee8c-af59-4094-8524-0b0161d19c5c
+DTSTART:20250427T150000
+DTEND:20250427T160000
+SUMMARY:ACFT Workout: Endurance & Recovery
+DESCRIPTION:Week 1 — Endurance & Recovery
+
+Workout Instructions:
+Warm-Up jog (5 min)
+Run 2 miles @ steady pace (goal: improve pacing)
+Hill Sprints: 4x30s uphill (walk down)
+Core & Mobility (20 min):
+- Sit-ups 3x20
+- Leg Raises 3x15
+- Hip Flexor & Pigeon Stretches
+END:VEVENT
+BEGIN:VEVENT
+UID:4f532d3b-6974-4438-a832-38ed1c180f6c
+DTSTART:20250427T161500
+DTEND:20250427T163000
+SUMMARY:Log Progress: Endurance & Recovery
+DESCRIPTION:Week 1 — Log Progress for Endurance & Recovery
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:7ea51387-b64e-4a1f-b36f-f69e26e05f82
+DTSTART:20250429T150000
+DTEND:20250429T160000
+SUMMARY:ACFT Workout: SDC Focus + Strength
+DESCRIPTION:Week 2 — SDC Focus + Strength
+
+Workout Instructions:
+Warm-Up (10 min): Jump rope or jog + dynamic stretches
+Main (30 min):
+- 4 Rounds SDC-style circuit (Sprint, Drag, Shuffle, Carry, Sprint)
+- 3x15 Air or Weighted Squats
+- 3x25m Farmer's Carry
+Core (10 min): 3x1 min Plank, 3x15 Leg Raises
+Cooldown (10 min): Walk + Stretch
+END:VEVENT
+BEGIN:VEVENT
+UID:6927df63-a641-404c-a8e0-77a03607e02f
+DTSTART:20250429T161500
+DTEND:20250429T163000
+SUMMARY:Log Progress: SDC Focus + Strength
+DESCRIPTION:Week 2 — Log Progress for SDC Focus + Strength
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:9a61e507-2d65-43da-8924-49bc2b25fd28
+DTSTART:20250430T150000
+DTEND:20250430T160000
+SUMMARY:ACFT Workout: Run Speed + Stride Control
+DESCRIPTION:Week 2 — Run Speed + Stride Control
+
+Workout Instructions:
+Warm-Up (10 min): Jog + High Knees, Bounding
+Intervals (30 min): 5x400m @ 1:45–2:00 pace (90s rest)
+Strides & Mobility (10 min): 3x100m strides + 3x20m bounding
+Core (10 min): Plank 2x1 min, Russian Twists 2x20
+Cooldown jog (5 min)
+END:VEVENT
+BEGIN:VEVENT
+UID:1d5a8f24-1e87-4c92-a863-eb65739e0216
+DTSTART:20250430T161500
+DTEND:20250430T163000
+SUMMARY:Log Progress: Run Speed + Stride Control
+DESCRIPTION:Week 2 — Log Progress for Run Speed + Stride Control
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:3397c0a6-08ac-4191-9682-a9edd34aafb1
+DTSTART:20250502T150000
+DTEND:20250502T160000
+SUMMARY:ACFT Workout: Push + Power Throw
+DESCRIPTION:Week 2 — Push + Power Throw
+
+Workout Instructions:
+Warm-Up (10 min): Arm circles, mobility drills
+Upper Body Strength (30 min):
+- 3x Max HR Push-ups
+- 3x10 Weighted/Incline Push-ups
+- 3x5 Power Throws (med ball/backpack)
+- 3x10 Jump Squats
+Core Finisher (10 min): 3x1 min Side Plank, 3x20 Flutter Kicks
+Stretch (10 min)
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9c6bbb-84da-4d78-9e92-d1d5e3b70910
+DTSTART:20250502T161500
+DTEND:20250502T163000
+SUMMARY:Log Progress: Push + Power Throw
+DESCRIPTION:Week 2 — Log Progress for Push + Power Throw
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:767f435d-f70c-40f7-a461-3480a2657e4e
+DTSTART:20250504T150000
+DTEND:20250504T160000
+SUMMARY:ACFT Workout: Endurance & Recovery
+DESCRIPTION:Week 2 — Endurance & Recovery
+
+Workout Instructions:
+Warm-Up jog (5 min)
+Run 2 miles @ steady pace (goal: improve pacing)
+Hill Sprints: 4x30s uphill (walk down)
+Core & Mobility (20 min):
+- Sit-ups 3x20
+- Leg Raises 3x15
+- Hip Flexor & Pigeon Stretches
+END:VEVENT
+BEGIN:VEVENT
+UID:4170c477-5aaf-40b1-9ec1-f0a461381ff9
+DTSTART:20250504T161500
+DTEND:20250504T163000
+SUMMARY:Log Progress: Endurance & Recovery
+DESCRIPTION:Week 2 — Log Progress for Endurance & Recovery
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ed0f38-aa31-4775-8336-7348cffe3d61
+DTSTART:20250506T150000
+DTEND:20250506T160000
+SUMMARY:ACFT Workout: SDC Focus + Strength
+DESCRIPTION:Week 3 — SDC Focus + Strength
+
+Workout Instructions:
+Warm-Up (10 min): Jump rope or jog + dynamic stretches
+Main (30 min):
+- 4 Rounds SDC-style circuit (Sprint, Drag, Shuffle, Carry, Sprint)
+- 3x15 Air or Weighted Squats
+- 3x25m Farmer's Carry
+Core (10 min): 3x1 min Plank, 3x15 Leg Raises
+Cooldown (10 min): Walk + Stretch
+END:VEVENT
+BEGIN:VEVENT
+UID:88ba52a8-b912-4ec8-93c5-5dbab9971ec1
+DTSTART:20250506T161500
+DTEND:20250506T163000
+SUMMARY:Log Progress: SDC Focus + Strength
+DESCRIPTION:Week 3 — Log Progress for SDC Focus + Strength
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:458dc362-8e41-41ae-a510-697352c934ca
+DTSTART:20250507T150000
+DTEND:20250507T160000
+SUMMARY:ACFT Workout: Run Speed + Stride Control
+DESCRIPTION:Week 3 — Run Speed + Stride Control
+
+Workout Instructions:
+Warm-Up (10 min): Jog + High Knees, Bounding
+Intervals (30 min): 5x400m @ 1:45–2:00 pace (90s rest)
+Strides & Mobility (10 min): 3x100m strides + 3x20m bounding
+Core (10 min): Plank 2x1 min, Russian Twists 2x20
+Cooldown jog (5 min)
+END:VEVENT
+BEGIN:VEVENT
+UID:733abe7a-2df3-41f0-a0e7-d649b9cb8b15
+DTSTART:20250507T161500
+DTEND:20250507T163000
+SUMMARY:Log Progress: Run Speed + Stride Control
+DESCRIPTION:Week 3 — Log Progress for Run Speed + Stride Control
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:3083ed8f-1313-46b2-ad9d-df4c98e12c7b
+DTSTART:20250509T150000
+DTEND:20250509T160000
+SUMMARY:ACFT Workout: Push + Power Throw
+DESCRIPTION:Week 3 — Push + Power Throw
+
+Workout Instructions:
+Warm-Up (10 min): Arm circles, mobility drills
+Upper Body Strength (30 min):
+- 3x Max HR Push-ups
+- 3x10 Weighted/Incline Push-ups
+- 3x5 Power Throws (med ball/backpack)
+- 3x10 Jump Squats
+Core Finisher (10 min): 3x1 min Side Plank, 3x20 Flutter Kicks
+Stretch (10 min)
+END:VEVENT
+BEGIN:VEVENT
+UID:00ce41ab-2155-49af-b518-c86c20b0a227
+DTSTART:20250509T161500
+DTEND:20250509T163000
+SUMMARY:Log Progress: Push + Power Throw
+DESCRIPTION:Week 3 — Log Progress for Push + Power Throw
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:6bdd5f31-5da1-4149-ad51-90d418e4cd27
+DTSTART:20250511T150000
+DTEND:20250511T160000
+SUMMARY:ACFT Workout: Endurance & Recovery
+DESCRIPTION:Week 3 — Endurance & Recovery
+
+Workout Instructions:
+Warm-Up jog (5 min)
+Run 2 miles @ steady pace (goal: improve pacing)
+Hill Sprints: 4x30s uphill (walk down)
+Core & Mobility (20 min):
+- Sit-ups 3x20
+- Leg Raises 3x15
+- Hip Flexor & Pigeon Stretches
+END:VEVENT
+BEGIN:VEVENT
+UID:9b098187-0760-4b3c-b334-f2dbf4ba3810
+DTSTART:20250511T161500
+DTEND:20250511T163000
+SUMMARY:Log Progress: Endurance & Recovery
+DESCRIPTION:Week 3 — Log Progress for Endurance & Recovery
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:324e48e8-4df5-4245-b624-bb85cda53f3f
+DTSTART:20250513T150000
+DTEND:20250513T160000
+SUMMARY:ACFT Workout: SDC Focus + Strength
+DESCRIPTION:Week 4 — SDC Focus + Strength
+
+Workout Instructions:
+Warm-Up (10 min): Jump rope or jog + dynamic stretches
+Main (30 min):
+- 4 Rounds SDC-style circuit (Sprint, Drag, Shuffle, Carry, Sprint)
+- 3x15 Air or Weighted Squats
+- 3x25m Farmer's Carry
+Core (10 min): 3x1 min Plank, 3x15 Leg Raises
+Cooldown (10 min): Walk + Stretch
+END:VEVENT
+BEGIN:VEVENT
+UID:75415cea-f326-4690-976d-491178b77119
+DTSTART:20250513T161500
+DTEND:20250513T163000
+SUMMARY:Log Progress: SDC Focus + Strength
+DESCRIPTION:Week 4 — Log Progress for SDC Focus + Strength
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:c760a61f-5821-4fbe-8e56-db2a2d249e6e
+DTSTART:20250514T150000
+DTEND:20250514T160000
+SUMMARY:ACFT Workout: Run Speed + Stride Control
+DESCRIPTION:Week 4 — Run Speed + Stride Control
+
+Workout Instructions:
+Warm-Up (10 min): Jog + High Knees, Bounding
+Intervals (30 min): 5x400m @ 1:45–2:00 pace (90s rest)
+Strides & Mobility (10 min): 3x100m strides + 3x20m bounding
+Core (10 min): Plank 2x1 min, Russian Twists 2x20
+Cooldown jog (5 min)
+END:VEVENT
+BEGIN:VEVENT
+UID:01613279-ad6c-4b04-86a3-8f69be685350
+DTSTART:20250514T161500
+DTEND:20250514T163000
+SUMMARY:Log Progress: Run Speed + Stride Control
+DESCRIPTION:Week 4 — Log Progress for Run Speed + Stride Control
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:9a68e889-0fe7-4e59-b28f-aa2b7b209c60
+DTSTART:20250516T150000
+DTEND:20250516T160000
+SUMMARY:ACFT Workout: Push + Power Throw
+DESCRIPTION:Week 4 — Push + Power Throw
+
+Workout Instructions:
+Warm-Up (10 min): Arm circles, mobility drills
+Upper Body Strength (30 min):
+- 3x Max HR Push-ups
+- 3x10 Weighted/Incline Push-ups
+- 3x5 Power Throws (med ball/backpack)
+- 3x10 Jump Squats
+Core Finisher (10 min): 3x1 min Side Plank, 3x20 Flutter Kicks
+Stretch (10 min)
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7601c2-8f39-49d9-bfe9-3317087e06c7
+DTSTART:20250516T161500
+DTEND:20250516T163000
+SUMMARY:Log Progress: Push + Power Throw
+DESCRIPTION:Week 4 — Log Progress for Push + Power Throw
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+BEGIN:VEVENT
+UID:57982b6f-6e77-49d8-97ae-d6b7a66dd6d8
+DTSTART:20250518T150000
+DTEND:20250518T160000
+SUMMARY:ACFT Workout: Endurance & Recovery
+DESCRIPTION:Week 4 — Endurance & Recovery
+
+Workout Instructions:
+Warm-Up jog (5 min)
+Run 2 miles @ steady pace (goal: improve pacing)
+Hill Sprints: 4x30s uphill (walk down)
+Core & Mobility (20 min):
+- Sit-ups 3x20
+- Leg Raises 3x15
+- Hip Flexor & Pigeon Stretches
+END:VEVENT
+BEGIN:VEVENT
+UID:febbfb43-e1ed-4d99-99eb-745cd04a5955
+DTSTART:20250518T161500
+DTEND:20250518T163000
+SUMMARY:Log Progress: Endurance & Recovery
+DESCRIPTION:Week 4 — Log Progress for Endurance & Recovery
+
+Open your tracker and record:
+- Completed?
+- Time, reps, distance
+- How you felt
+END:VEVENT
+END:VCALENDAR
